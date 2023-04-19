@@ -1,0 +1,11 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:18",
+  "forwardPorts": [8084, 8084],
+  "customizations": {
+    // Configure properties specific to VS Code.
+    "vscode": {
+      // Add the IDs of extensions you want installed when the container is created.
+      "extensions": ["streetsidesoftware.code-spell-checker"]
+    }
+  }
+}
