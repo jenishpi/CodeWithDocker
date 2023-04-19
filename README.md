@@ -36,8 +36,17 @@ for more properties of this file please check this link
 # 3:
 Open the current folder in a container.
 
+vs code will show you option to open current code in container
+![image](https://user-images.githubusercontent.com/48003943/233097712-3407d527-39b4-4aa7-9fa9-0d1576b70529.png)
+
+## or 
+
+you can use this steps:
+![tl1](https://user-images.githubusercontent.com/48003943/233098686-fa9f7dae-21bd-40f2-b3d4-78f4093afed7.png)
 
 
+
+# 4: now try to run command in terminal
 
 Install the dependencies:
 
