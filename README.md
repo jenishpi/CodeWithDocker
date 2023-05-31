@@ -13,7 +13,7 @@ Install the “Dev Containers” plugin in VS Code.
 # 1:
 Pull the Docker image by running the following commands:
 ```sh
-docker pull mcr.microsoft.com/devcontainers/javascript-node
+docker pull mcr.microsoft.com/vscode/devcontainers/javascript-node
 ```
 # 2:
 Add a file `.devcontainer/devcontainer.json`  with the following contents:
